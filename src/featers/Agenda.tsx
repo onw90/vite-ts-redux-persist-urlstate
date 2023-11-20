@@ -6,8 +6,10 @@ export const Agenda: React.FC = () => {
         <li>React Router v6.0</li>
         <li>React Redux</li>
         <li>Redux Persist</li>
-        <li>React Query</li>
+        <li>React Query </li>
         <li>URL State</li>
+        <li>Sass Css</li>
+        <li>Radix-UI Themes . Primitives . Icons</li>
       </ul>
     </div>
   );
