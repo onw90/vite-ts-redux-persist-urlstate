@@ -1,5 +1,5 @@
 {
-  "name": "vite-ts-redux-project",
+  "name": "vite-ts-redux-persist-urlstate",
   "private": true,
   "version": "0.0.0",
   "type": "module",

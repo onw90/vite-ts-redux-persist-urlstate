@@ -14,7 +14,7 @@ export const StarWarsPlanet: React.FC = () => {
     fetchPlanets
   );
 
-  if (isLoading) return <Loader />;
+  if (isLoading) return(<><div className="starwars-loader"><Loader /></div></>);
 
   if (isError) return `An error has occured ${JSON.stringify(error)}`;
 
