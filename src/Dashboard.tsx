@@ -1,7 +1,7 @@
-import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
-import { Outlet, Link, NavLink } from 'react-router-dom';
+// import { QueryClient } from '@tanstack/react-query';
+import { Outlet, NavLink } from 'react-router-dom';
 
-const queryClient = new QueryClient();
+// const queryClient = new QueryClient();
 
 function Dashboard() {
   return (
